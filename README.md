@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawansaini29&label=Profile%20views&color=0e75b6&style=flat" alt="pawansaini29" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sushankznation" target="blank"><img src="https://img.shields.io/twitter/follow/_this_is_pawan?logo=twitter&style=for-the-badge" alt="Sushanzkznation" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sushankznation" target="blank"><img src="https://img.shields.io/twitter/follow/Sushankznation?logo=twitter&style=for-the-badge" alt="Sushanzkznation" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Technologies**
 

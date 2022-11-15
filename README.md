@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawansaini29&label=Profile%20views&color=0e75b6&style=flat" alt="pawansaini29" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/_this_is_pawan" target="blank"><img src="https://img.shields.io/twitter/follow/_this_is_pawan?logo=twitter&style=for-the-badge" alt="_this_is_pawan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sushankznation" target="blank"><img src="https://img.shields.io/twitter/follow/_this_is_pawan?logo=twitter&style=for-the-badge" alt="_this_is_pawan" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Technologies**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_this_is_pawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_this_is_pawan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sushantbharwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-saini-29dec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sushantbherwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-saini-29dec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

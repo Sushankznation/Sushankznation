@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/sushankznation">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushankznation&show_icons=true&locale=en&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushankznation&show_icons=true&locale=en&layout=compact&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushankznation&theme=algolia" alt="sushankznation" />

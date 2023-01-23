@@ -29,14 +29,14 @@
 ### <h2 align="center">Languages and Tools </h2>
 <p align="center">
   	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;&nbsp;
 	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	 <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="python" />&nbsp;&nbsp;
 	 <img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap />&nbsp;&nbsp;
+															      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
 </p>
-<br>
+</br>
   
 
 ### <h2 align="center">GitHub Stats </h2>

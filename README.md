@@ -19,11 +19,10 @@
 ---
 ### <h2 align="center">Contact Me</h2>
 <p align="center">   
-  <a href="mailto:akshatjalanmain@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=DB4437"></a>
-    <a href="https://www.linkedin.com/in/akshat-jalan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
-  <a href="https://www.instagram.com/akshatxjalan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C13584"></a>
-       <a href="https://twitter.com/AkshatJalan13" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2"></a>
-  <a href="https://www.youtube.com/c/haggele" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+  <a href="mailto:sushantbharwal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=DB4437"></a>
+    <a href="https://www.linkedin.com/in/sushantbherwal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
+       <a href="https://twitter.com/sushankznation" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2"></a>
+  <a href="https://www.youtube.com/c/Sushankznation" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
 </p>
 <br>
 
@@ -49,11 +48,11 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatjalan&show_icons=true&locale=en&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatjalan&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjalan&theme=algolia" alt="akshatjalan" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushankznation&show_icons=true&locale=en&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushankznation&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushankznation&theme=algolia" alt="sushankznation" />
 </a>
 </p>
 
 
-[website]: https://akshatjalan.github.io/akshat/
+[website]:https://portfoliosushank.vercel.app/

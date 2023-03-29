@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **FRONTEND &  DSA**
 
-- 📫 You can check my all projects on my *** <a href="https://portfoliosushank.vercel.app/" target="_blank">Portfolio</a>***
+- 📫 You can check my all projects on my ***<a href="https://portfoliosushank.vercel.app/" target="_blank">Portfolio</a>***
 
 
 ---

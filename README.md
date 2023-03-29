@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/sushankznation" target="blank"><img src="https://img.shields.io/twitter/follow/Sushankznation?logo=twitter&style=for-the-badge" alt="Sushanzkznation" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Node.Js**
 
-- 💬 Ask me about **FRONTEND and  DSA**
+- 💬 Ask me about **FRONTEND &  DSA**
 
-- 📫 You can check my all projects on : <a href="https://portfoliosushank.vercel.app/" target="_blank">Portfolio</a>
+- 📫 You can check my all projects on my *** <a href="https://portfoliosushank.vercel.app/" target="_blank">Portfolio</a>***
 
- ⚡ Fun fact **I am Funny**
 
 ---
 ### <h2 align="center">Contact Me</h2>

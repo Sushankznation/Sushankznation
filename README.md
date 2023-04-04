@@ -28,14 +28,16 @@
 <p align="center">
   	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Nextjs-ED8B00?style=for-the-badge&logo=nextjs&logoColor=blue" alt="Next.js" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;&nbsp;
 	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	 <img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="python" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-ED8B00?style=for-the-badge&logo=nextjs&logoColor=pink" alt="figma" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Nextjs-ED8B00?style=for-the-badge&logo=nextjs&logoColor=black" alt="DSA" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-ED8B00?style=for-the-badge&logo=Figma&logoColor=pink" alt="figma" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/DSA-ED8B00?style=for-the-badge&logo=DSA&logoColor=black" alt="DSA" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MaterialUI
+-E34F26?style=for-the-badge&logo=MaterialUI&logoColor=white" alt="MaterialUI
+" />&nbsp;&nbsp;
 </p>
 </br>
   

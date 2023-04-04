@@ -33,6 +33,7 @@
 	 <img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="python" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nextjs-ED8B00?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;
 </p>
 </br>
   

@@ -26,16 +26,16 @@
 
 ### <h2 align="center">Languages and Tools </h2>
 <p align="center">
-  	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Nextjs-ED8B00?style=for-the-badge&logo=nextjs&logoColor=blue" alt="Next.js" />&nbsp;&nbsp;
-  	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />&nbsp;&nbsp;
-	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="python" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-ED8B00?style=for-the-badge&logo=Figma&logoColor=pink" alt="figma" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/DSA-ED8B00?style=for-the-badge&logo=DSA&logoColor=black" alt="DSA" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MaterialUI-E34F26?style=for-the-badge&logo=MaterialUI&logoColor=white" alt="MaterialUI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-ED8B00?style=for-the-badge&logo=next.js&logoColor=blue" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
 </p>
 </br>
   

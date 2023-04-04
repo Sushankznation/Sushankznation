@@ -1,5 +1,4 @@
-
-<h1 align="center">Hey, I'm Sushank Bherwal</h1>
+ <h1 align="center">Hey, I'm Sushank Bherwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -26,12 +25,14 @@
 
 ### <h2 align="center">Languages and Tools </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-ED8B00?style=for-the-badge&logo=next.js&logoColor=blue" alt="Next.js" />&nbsp;&nbsp;
+  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-ED8B00?style=for-the-badge&logo=next.js&logoColor=blue" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />&nbsp;&nbsp;
@@ -52,4 +53,4 @@
 </p>
 
 
-[website]:https://portfoliosushank.vercel.app/
+[website]:https://portfoliosushank.vercel.app/ 

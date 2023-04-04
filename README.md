@@ -35,9 +35,7 @@
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-ED8B00?style=for-the-badge&logo=Figma&logoColor=pink" alt="figma" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/DSA-ED8B00?style=for-the-badge&logo=DSA&logoColor=black" alt="DSA" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MaterialUI
--E34F26?style=for-the-badge&logo=MaterialUI&logoColor=white" alt="MaterialUI
-" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MaterialUI-E34F26?style=for-the-badge&logo=MaterialUI&logoColor=white" alt="MaterialUI" />&nbsp;&nbsp;
 </p>
 </br>
   

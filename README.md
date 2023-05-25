@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sushankznation" target="blank"><img src="https://img.shields.io/twitter/follow/Sushankznation?logo=twitter&style=for-the-badge" alt="Sushanzkznation" /></a> </p>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 **Escape The Matrix**
 
 - 💬 Ask me about **FRONTEND &  DSA**
 

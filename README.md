@@ -20,6 +20,7 @@
   <a href="mailto:sushantbharwal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=DB4437"></a>
     <a href="https://www.linkedin.com/in/sushantbherwal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
        <a href="https://twitter.com/sushankznation" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2"></a>
+   <a href="https://leetcode.com/sushankznation/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-0D1117?style=for-the-badge&logo=Leetcode&logoColor=1DA1F2"></a>
 </p>
 <br>
 

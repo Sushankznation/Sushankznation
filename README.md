@@ -1,5 +1,5 @@
- <h1 align="center">Hey, I'm Sushant Bherwal</h1>
-<h4 align="center">a Frontend Engineer</h4>
+ <h1 align="center">Hey, I'm Sushank Bherwal</h1>
+<h3 align="center">"Experienced Frontend Developer, crafting digital experiences."h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushankznation&label=Profile%20views&color=0e75b6&style=flat" alt="Sushankznation" /> </p>

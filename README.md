@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sushankznation" target="blank"><img src="https://img.shields.io/twitter/follow/Sushankznation?logo=twitter&style=for-the-badge" alt="Sushanzkznation" /></a> </p>
 
-- 🌱 **Escape The Matrix**
+- 👁 **Escape The Matrix**
 
 - 💬 Ask me about **FRONTEND &  DSA**
 
 - 📫 You can check my all projects on my ***<a href="https://portfoliosushank.vercel.app/" target="_blank">Portfolio</a>***
 
--  💻 Consider Me for Your Team ***<a href="https://www.remotehub.com/sushankznation" target="_blank">Sushant-Remote</a>***
+-  👨🏻‍💻 Consider Me for Your Team ***<a href="https://www.remotehub.com/sushankznation" target="_blank">Sushant-Remote</a>***
 
 ---
 ---

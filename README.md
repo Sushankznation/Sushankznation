@@ -50,13 +50,14 @@
 
 
 <p align="center">
-<a href="https://github.com/sushankznation">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushankznation&show_icons=true&locale=en&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushankznation&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushankznation&theme=algolia" alt="sushankznation" />
- ![](https://leetcard.jacoblin.cool/jacoblincool?animation=false)
-</a>
+  <a href="https://github.com/sushankznation">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushankznation&show_icons=true&locale=en&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushankznation&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushankznation&theme=algolia" alt="sushankznation" />
+    <img height="180em" src="https://leetcode-stats-seven.vercel.app/api?username=sushankznation&hide=python&theme=algolia" />
+  </a>
 </p>
+
 
 
 [website]:https://portfoliosushank.vercel.app/ 

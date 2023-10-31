@@ -56,7 +56,6 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sushankznation&theme=algolia" alt="sushankznation" />
   </a>
 </p>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
 
 [website]:https://portfoliosushank.vercel.app/ 
